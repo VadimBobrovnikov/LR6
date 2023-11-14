@@ -75,5 +75,11 @@
 ![git log finale](https://github.com/VadimBobrovnikov/LR6/assets/113441223/d1cfffe8-01e2-46d7-8a4f-40795c7d26c0)
 ![git log finale 2](https://github.com/VadimBobrovnikov/LR6/assets/113441223/94e4fe7e-82fd-452a-af7f-6d67611d8eea)
 
+История операций в упрощенном виде
+
+![git log finale 3](https://github.com/VadimBobrovnikov/LR6/assets/113441223/69573e7a-f0e5-4595-92d1-79d502bc7a72)
+
+## Вывод
+Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием.
 
 
