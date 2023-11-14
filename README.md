@@ -58,3 +58,22 @@
 
 ![delete branch1](https://github.com/VadimBobrovnikov/LR6/assets/113441223/cee9123b-6a5f-447f-b41d-10e3b9245503)
 
+Создаем несколько коммитов с изменениями в файле FileLR6
+
+![git commits](https://github.com/VadimBobrovnikov/LR6/assets/113441223/1a1a5416-c138-4c3d-bd1e-f03f6e2d0e9d)
+
+Откат последнего коммита
+
+![revert](https://github.com/VadimBobrovnikov/LR6/assets/113441223/adf59f6f-c308-400c-b8b4-d5ac77e4b012)
+
+Создаем ветку для отчета
+
+![make report](https://github.com/VadimBobrovnikov/LR6/assets/113441223/a2ee38d5-aeb5-4b39-a7ee-bfcdefa630b1)
+
+История операций
+
+![git log finale](https://github.com/VadimBobrovnikov/LR6/assets/113441223/d1cfffe8-01e2-46d7-8a4f-40795c7d26c0)
+![git log finale 2](https://github.com/VadimBobrovnikov/LR6/assets/113441223/94e4fe7e-82fd-452a-af7f-6d67611d8eea)
+
+
+
